@@ -18,11 +18,11 @@
 | 2010131210018 | AKHMAD RIZAL KHALID |  |  |
 | 2010131210022 | M. DZAKI HAFIZHI | https://github.com/dzakihafizhikandangan | https://github.com/dzakihafizhikandangan/Administrasi_Sistem |
 | 2010131310005 | MUHAMMAD GILANG RAMADHAN |  |  |
-| 2010131310012 | REZA MAULANA | https://github.com/rezaamaulana | https://github.com/rezaamaulana/AdminSis |
-| 1710131210020 | NURDIAN |  |  |
+| 2010131310012 | REZA MAULANA | https://github.com/rezaamaulana | https://github.com/rezaamaulana/AdministrasiSistem.git |
+| 1710131210020 | NURDIAN | https://github.com/Nurdian123 | https://github.com/Nurdian123/administrasi-sistem- |
 | 1710131310039 | SAMIAJI SANTOSO | https://github.com/SamiajiSantoso | https://github.com/SamiajiSantoso/Administrasi-Sistem |
 | 1810131110007 | MUHAMAD DINAR SALIHIN | https://github.com/DNRSAL | https://github.com/DNRSAL/admin-sistem |
-| 1810131210001 | AHMAD FIRDAUS | https://github.com/firdaus7neo |  |
+| 1810131210001 | AHMAD FIRDAUS | https://github.com/firdaus7neo | https://github.com/firdaus7neo/Administrasi-Sistem |
 | 1810131210009 | MUHAMMAD HARIS | https://github.com/Haris0210 | https://github.com/Haris0210/Administrasi-Sistem |
 | 1810131210026 | MADE APIAWAN ANARKY | https://github.com/madeapiawan1 | https://github.com/madeapiawan1/Administrasi-Sistem- |
 | 1810131220011 | ILAHIDAH FAH NGESTU | https://github.com/Ilahidah | https://github.com/Ilahidah/Admsys |
@@ -32,7 +32,7 @@
 | 1810131310027 | HASANUDDIN | https://github.com/hasanuddinpmgr | https://github.com/hasanuddinpmgr/Administrasi-Sistem |
 | 1810131310035 | AHMAD HUSNI |  |  |
 | 1810131320013 | ADE IRNA ANDINI | https://github.com/adeira06 | https://github.com/adeira06/Adminisistem |
-| 1810131320023 | FARRAH LABITA | https://github.com/farrahlabita |  |
+| 1810131320023 | FARRAH LABITA | https://github.com/farrahlabita | https://github.com/farrahlabita/AdministrasiSistem |
 | 1910131120001 | YULIA SARI | https://github.com/Yuliasari1907 | https://github.com/Yuliasari1907/Administrasi-Sistem |
 | 1910131120004 | MARIA MANURUNG | https://github.com/mariamanurungg | https://github.com/mariamanurungg/Administrasi-Sistem |
 | 1910131210002 | FAHRURRAZI | https://github.com/FahrurraziULM04 | https://github.com/FahrurraziULM04/Tugas-Administrasi-Sistem |
@@ -52,20 +52,20 @@
 8. [x] M. DZAKI HAFIZHI
 9. [ ] MUHAMMAD GILANG RAMADHAN
 10. [x] REZA MAULANA
-11. [ ] NURDIAN
-12. [ ] SAMIAJI SANTOSO
+11. [x] NURDIAN
+12. [x] SAMIAJI SANTOSO
 13. [x] MUHAMAD DINAR SALIHIN
-14. [ ] AHMAD FIRDAUS
-15. [ ] MUHAMMAD HARIS
+14. [x] AHMAD FIRDAUS
+15. [x] MUHAMMAD HARIS
 16. [x] MADE APIAWAN ANARKY
 17. [x] ILAHIDAH FAH NGESTU
 18. [x] ARYO RIDHO SURYANGGI
-19. [ ] MUHAMMAD HARUN AL RASYID
+19. [x] MUHAMMAD HARUN AL RASYID
 20. [x] MUHAMMAD FADIL HIDAYAT
-21. [ ] HASANUDDIN
+21. [x] HASANUDDIN
 22. [ ] AHMAD HUSNI
 23. [x] ADE IRNA ANDINI
-24. [ ] FARRAH LABITA
+24. [x] FARRAH LABITA
 25. [x] YULIA SARI
 26. [x] MARIA MANURUNG
 27. [x] FAHRURRAZI
