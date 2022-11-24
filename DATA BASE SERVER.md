@@ -1,4 +1,4 @@
-## FILE TRANSFER PROTOCOL (FTP)
+## DATA BASE SERVER
 > **Nama Kelompok:**
 > 1. Futra S Hutasoit (2010131210002)
 > 2. Muhammad Iman Rizqullah (2010131210017)
