@@ -8,7 +8,7 @@
 > 6. Nurdian (1710131210020)
 
 **1. Instalasi**
-+ Langkah awal sebelum instalasi paket lakukan update dan upgrade sistem dengan menjalankan command **sudo apt update && sudo apt upgrade**
++ Sebelum instalasi paket lakukan update dan upgrade sistem dengan menjalankan command **sudo apt update && sudo apt upgrade**
 ![Image](img/ASTK_1.png)
 + Setelah itu lakukan instalasi squid dengan menjalankan command **sudo apt install squid**. Tunggu proses instalasi hingga selesai.
 ![Image](img/ASTK_2.png)
