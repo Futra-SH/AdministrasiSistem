@@ -17,7 +17,7 @@
 | 2010131210017 | MUHAMMAD IMAN RIZQULLAH | https://github.com/Rizqull17 | https://github.com/Rizqull17/Administrasi-Sistem |
 | 2010131210018 | AKHMAD RIZAL KHALID |  |  |
 | 2010131210022 | M. DZAKI HAFIZHI | https://github.com/dzakihafizhikandangan | https://github.com/dzakihafizhikandangan/Administrasi_Sistem |
-| 2010131310005 | MUHAMMAD GILANG RAMADHAN |  |  |
+| 2010131310005 | MUHAMMAD GILANG RAMADHAN | https://github.com/MGilangRamadhan | https://github.com/MGilangRamadhan/AdminSis.git |
 | 2010131310012 | REZA MAULANA | https://github.com/rezaamaulana | https://github.com/rezaamaulana/AdminSis |
 | 1710131210020 | NURDIAN | https://github.com/Nurdian123 | https://github.com/Nurdian123/administrasi-sistem- |
 | 1710131310039 | SAMIAJI SANTOSO | https://github.com/SamiajiSantoso | https://github.com/SamiajiSantoso/Administrasi-Sistem |
@@ -50,7 +50,7 @@
 6. [x] MUHAMMAD IMAN RIZQULLAH
 7. [ ] AKHMAD RIZAL KHALID
 8. [x] M. DZAKI HAFIZHI
-9. [ ] MUHAMMAD GILANG RAMADHAN
+9. [x] MUHAMMAD GILANG RAMADHAN
 10. [x] REZA MAULANA
 11. [x] NURDIAN
 12. [x] SAMIAJI SANTOSO
